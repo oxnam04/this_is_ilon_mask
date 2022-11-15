@@ -1,0 +1,18 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!doctype html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\r\n    <title>Document</title>\r\n    <link rel=\"stylesheet\" href=\"./css/style.css\">\r\n</head>\r\n<body>\r\n<header id=\"Traunship\"></header>\r\n<section id=\"best\"></section>\r\n<section id=\"features\"></section>\r\n<section id=\"invest\"></section>\r\n<section id=\"affordable\"></section>\r\n<section id=\"rocket\"></section>\r\n<section id=\"man\"></section>\r\n<footer id=\"footer\"></footer>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+--- a/index.html	(revision d8c747c73f0109344e6851bc671f2818d24f6563)
++++ b/index.html	(date 1668484737293)
+@@ -16,5 +16,6 @@
+ <section id="rocket"></section>
+ <section id="man"></section>
+ <footer id="footer"></footer>
++<script></script>
+ </body>
+ </html>
+\ No newline at end of file
